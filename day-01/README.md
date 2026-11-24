@@ -11,7 +11,7 @@ A simple dashboard page with:
 - `App` – assembles the page, passes data as props
 
 ## Component tree
-
+(check component tree image at images/day 1-component-tree.drawio.png)
 ```
 App
 ├── Header
