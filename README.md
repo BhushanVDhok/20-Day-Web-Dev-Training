@@ -34,11 +34,6 @@
 └── capstone-ems/    # Employee Management System capstone
 ```
 
-## Rules
-
-- Commit daily with clear messages (e.g. `day-01: add Header and Card components`)
-- Never commit `.env`, API keys, passwords, or personal data
-- Each folder has its own `README.md` describing the day's goal and what was built
 
 ## Progress
 
