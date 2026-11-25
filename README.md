@@ -40,5 +40,6 @@
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01  | React foundations | ✅ Done |
-| 02–20 | … | ⏳ Upcoming |
+| 02  | React forms & API state | ✅ Done |
+| 03–20 | … | ⏳ Upcoming |
 | Capstone | Employee Management System | ⏳ Upcoming |
