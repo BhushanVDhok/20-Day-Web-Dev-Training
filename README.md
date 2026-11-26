@@ -41,5 +41,6 @@
 |-----|-------|--------|
 | 01  | React foundations | ✅ Done |
 | 02  | React forms & API state | ✅ Done |
-| 03–20 | … | ⏳ Upcoming |
+| 03  | TypeScript essentials | ✅ Done |
+| 04–20 | … | ⏳ Upcoming |
 | Capstone | Employee Management System | ⏳ Upcoming |
